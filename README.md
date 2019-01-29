@@ -1,9 +1,3 @@
----
-output:
-  html_document:
-    keep_md: true
----
-
 
 # Titanic - Machine learning from disaster
 
