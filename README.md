@@ -1,5 +1,7 @@
 ---
-output: md_document
+output:
+  html_document:
+    keep_md: true
 ---
 
 
