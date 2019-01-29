@@ -47,7 +47,7 @@ In order to predict the outcome of the passengers in the titanic, we first need 
 
 
 ## Deliverables
-* [Project markdown](output/Titanic%20-%20machine%20learning.Rmd)
+* [Project markdown](output/Titanic%20-%20machine%20learning.html)
 
 ## Contact
 * Feel free to contact team leads with any questions or if you are interested in contributing!
