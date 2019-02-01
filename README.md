@@ -18,10 +18,10 @@ In this project, we will predict the sorts of people who were likely to survive 
 ________
 
 ### Methods Used
-* Data cleaninig 
+* Data cleannig 
 * Data imputation
 * Inferential Statistics
-* Data Visualization
+* Data Visualisation
 * Predictive Modeling
 * Machine Learning
 
@@ -36,7 +36,7 @@ In order to predict the outcome of the passengers in the titanic, we first need 
 - data exploration/descriptive statistics
 - data processing/cleaning
 - data imputation
-- statistical modeling - machine learninig - random forest
+- statistical modelling - machine learninig - random forest
 - writeup/reporting
 
 ## Getting Started
